@@ -14,6 +14,10 @@
     "ko": "이상해씨",
     "zh": "妙蛙种子"
   },
+  "rarity": "4",
+  "tags": [
+    "STARTER"
+  ],
   "types": [
     "GRASS",
     "POISON"
@@ -33,7 +37,7 @@
     ],
     "hidden": [
       "CHLOROPHYLL"
-    ],
+    ]
   },
   "growthRate": "MEDIUM_SLOW",
   "eggGroups": [
