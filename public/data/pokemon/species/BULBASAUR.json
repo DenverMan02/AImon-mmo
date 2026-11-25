@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "BULBASAUR",
+  "dexNumbers": {
+    "national": 1
+  },
+  "names": {
+    "en": "Bulbasaur"
+  },
+  "types": [
+    "GRASS",
+    "POISON"
+  ],
+  "baseStats": {
+    "hp": 45,
+    "attack": 49,
+    "defense": 49,
+    "specialAttack": 65,
+    "specialDefense": 65,
+    "speed": 45
+  },
+  "abilities": {
+    "normal": [
+      "OVERGROW"
+    ],
+    "hidden": "CHLOROPHYLL"
+  },
+  "growthRate": "MEDIUM_SLOW",
+  "eggGroups": [
+    "MONSTER",
+    "GRASS"
+  ],
+  "forms": {
+    "DEFAULT": {}
+  }
+}
