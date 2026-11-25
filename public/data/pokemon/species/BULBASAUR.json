@@ -5,7 +5,14 @@
     "national": 1
   },
   "names": {
-    "en": "Bulbasaur"
+    "en": "Bulbasaur",
+    "ja": "フシギダネ",
+    "de": "Bisasam",
+    "fr": "Bulbizarre",
+    "it": "Bulbasaur",
+    "es": "Bulbasaur",
+    "ko": "이상해씨",
+    "zh": "妙蛙种子"
   },
   "types": [
     "GRASS",
@@ -13,6 +20,7 @@
   ],
   "baseStats": {
     "hp": 45,
+    "pp": 1234567,
     "attack": 49,
     "defense": 49,
     "specialAttack": 65,
@@ -23,7 +31,9 @@
     "normal": [
       "OVERGROW"
     ],
-    "hidden": "CHLOROPHYLL"
+    "hidden": [
+      "CHLOROPHYLL"
+    ],
   },
   "growthRate": "MEDIUM_SLOW",
   "eggGroups": [
