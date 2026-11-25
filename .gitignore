@@ -30,3 +30,12 @@ coverage/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Locally supplied Pokémon cries (OGG Vorbis format)
+/public/assets/audio/sfx/cries/
+
+# Externally supplied Pokémon graphics (PNG format)
+/public/assets/graphics/pokemon/
+
+# Locally supplied large font
+/public/assets/fonts/LXGWWenKai-Regular.ttf

@@ -1,5 +1,5 @@
 import Phaser from 'phaser';
-import './style.css';
+import './styles.css';
 
 class MainScene extends Phaser.Scene {
   constructor() {

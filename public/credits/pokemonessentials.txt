@@ -1,0 +1,24 @@
+NOTE THAT THIS USES ASSETS FROM POKEMON ESSENTIALS, IT IS NOT BUILT OFF OF IT. I JUST LIKE CONSISTENCY BETWEEN PROJECTS.
+
+Resource: https://eeveeexpo.com/essentials/
+
+"Pokémon Essentials" was created by:
+Poccil (Peter O.)
+Maruno
+Inspired by work by Flameguru
+
+With contributions from:
+AvatarMonkeyKirby, Boushy, Brother1440, FL., Genzai Kawakami, Golisopod User, help-14, IceGod64, Jacob O. Wobbrock, KitsuneKouta, Lisa Anthony, Luka S.J., Marin, MiDas Mike, Near Fantastica, PinkMan, Popper, Rataime, Savordez, SoundSpawn, the__end, Venom12, Wachunga
+and everyone else who helped out
+
+"mkxp-z" by:
+Anon
+Based on \mkxp\ by Ancurio et al.
+
+"RPG Maker XP" by:
+Enterbrain
+
+Pokémon is owned by:
+The Pokémon Company
+Nintendo
+Affiliated with Game Freak
